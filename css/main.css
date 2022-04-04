@@ -1,0 +1,6 @@
+/* EXISTE HIERARQUIA */
+@import url(./../bootstrap/css/bootstrap.min.css);/*Arquivo princial do boostrap "CARREGA TODAS AS CONFIGURAÇÕES DO BOOSTRAP"*/
+@import url(./config.css); /*variaveis da página */
+@import url(./global.css); /*css global da página*/
+@import url(./custom.css); /*Personalização do boostrap*/
+@import url(./responsive.css); /*Responsividade com dispositivos móveis*/

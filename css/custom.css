@@ -1,0 +1,13 @@
+html,
+body {
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    padding-bottom: 400px;
+}
+
+#header{
+    width: 100%;
+    background-color: transparent;
+    transition: background ease-out 0.2s;
+}
